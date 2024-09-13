@@ -3,5 +3,5 @@ Undergraduate, focus on CPU and Agile hardware development
 
 ## How to reach me
 
-- Email [120l052208@stu.hit.edu.cn](120l052208@stu.hit.edu.cn)
+- Email [euphgh@gmail.com](euphgh@gmail.com)
 - Telegram [@euphgh](https://t.me/euphgh)
